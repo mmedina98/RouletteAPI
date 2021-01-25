@@ -14,6 +14,7 @@ namespace RouletteAPI.Controllers
 
         public RouletteController()
         {
+
         }
 
         [HttpGet]
